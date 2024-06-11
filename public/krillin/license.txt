@@ -1,0 +1,11 @@
+Model Information:
+* title:	Krillin
+* source:	https://sketchfab.com/3d-models/krillin-677f5f84b46a458d81c3471ef583baa3
+* author:	Duznot (https://sketchfab.com/duz_vr)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Krillin" (https://sketchfab.com/3d-models/krillin-677f5f84b46a458d81c3471ef583baa3) by Duznot (https://sketchfab.com/duz_vr) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
